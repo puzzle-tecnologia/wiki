@@ -1,8 +1,12 @@
 .features {
+  padding-top: 100px !important;
   display: flex;
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  background-color: white;
+  color: black;
+  height: 100vh;
 }
 
 .featureSvg {

@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/cube.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -58,7 +58,7 @@ function Feature({title, Svg, description}: FeatureItem) {
 
 export default function HomepageFeatures(): ReactNode {
   return (
-    <section className={styles.features}>
+    <section className={styles.features} id="features">
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (

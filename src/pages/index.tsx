@@ -20,8 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://puzzle-tecnologia.com.br">
-            Visite nosso website
+            to="#features">
+            Veja mais
           </Link>
         </div>
       </div>
