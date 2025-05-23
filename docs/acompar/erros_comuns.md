@@ -3,6 +3,9 @@ sidebar_position: 2
 ---
 
 # 🚨 Códigos de Erro Comuns
+
+## Possíveis códigos de resposta
+
 | Código | Descrição                |
 | ------ | ------------------------ |
 | 400    | Requisição malformada    |

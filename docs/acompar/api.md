@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # 📘 Documentação da API
 
-## 📄 Visão Geral
+## Endpoints
+
+### 📄 Visão Geral
 
 Bem-vindo à documentação da API! Esta API permite que você realize a gestão dos dados para o sistema Acompar.
 

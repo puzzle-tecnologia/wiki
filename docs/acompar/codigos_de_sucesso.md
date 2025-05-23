@@ -3,6 +3,9 @@ sidebar_position: 3
 ---
 
 # ✅️ Códigos de Sucesso
+
+## Possíveis códigos de resposta
+
 | Código | Descrição                |
 | ------ | ------------------------ |
 | 200    | Requisição bem sucedida  |
