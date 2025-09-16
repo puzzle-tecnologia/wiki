@@ -1,6 +1,6 @@
-# Cadastro de professores
+# Cadastro de Professores
 **ID:** USAB-001  
-**Título:** Cadastro de professores  
+**Título:** Cadastro de Professores  
 **Objetivo:** Como um coordenador devo cadastrar professores em meu núcleo de atendimento  
 **Passos:**
 
