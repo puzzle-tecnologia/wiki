@@ -12,7 +12,7 @@
     
 4.  Informar nome da unidade, endereço, e-mail, telefone e coordenador. 
 
-6. Clicar no botão adicionar.
+6. Clicar no botão "Adicionar".
 
  ### Validações    
 
