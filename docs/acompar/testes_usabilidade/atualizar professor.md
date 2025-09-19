@@ -1,16 +1,16 @@
-# Atualizar aluno
-**ID:** USAB-005  
-**Título:** Atualizar aluno \
-**Objetivo:** Como um coordenador devo atualizar o aluno na plataforma.  
+# Atualizar professor
+**ID:** USAB-006  
+**Título:** Atualizar professor \
+**Objetivo:** Como um coordenador devo atualizar o professor na plataforma.  
 **Passos:**
 
 1.  Acessar a plataforma com um usuário coordenador.
     
-2.  Acessar o menu "Alunos".
+2.  Acessar o menu professor.
     
-3.  Identificar o aluno a ser atualizado.
+3.  Identificar o professor a ser atualizado.
     
-4.  Ir na coluna ações e clicar em editar aluno.
+4.  Ir na coluna ações e clicar em editar professor.
 
 5.  Alterar o/os campo(s) desejados.
 
