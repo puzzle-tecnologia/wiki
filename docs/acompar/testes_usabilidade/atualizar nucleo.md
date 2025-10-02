@@ -1,4 +1,4 @@
-# Atualizar núcleo
+# Atualizar Núcleo
 **ID:** USAB-007  
 **Título:** Atualizar núcleo \
 **Objetivo:** Como um administrador devo atualizar o núcleo na plataforma.  

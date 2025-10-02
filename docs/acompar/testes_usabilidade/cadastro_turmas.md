@@ -1,4 +1,4 @@
-# Cadastro de turmas
+# Cadastro de Turmas
 **ID:** USAB-003  
 **Título:** Cadastro de turmas \
 **Objetivo:** Como um coordenador devo cadastrar as turmas na plataforma.  

@@ -1,4 +1,4 @@
-# Atualizar professor
+# Atualizar Professor
 **ID:** USAB-006  
 **Título:** Atualizar professor \
 **Objetivo:** Como um coordenador devo atualizar o professor na plataforma.  

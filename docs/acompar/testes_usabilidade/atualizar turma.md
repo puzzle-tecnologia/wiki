@@ -1,4 +1,4 @@
-# Atualizar turma
+# Atualizar Turma
 **ID:** USAB-008  
 **Título:** Atualizar turma \
 **Objetivo:** Como um coordenador devo atualizar a turma na plataforma.  

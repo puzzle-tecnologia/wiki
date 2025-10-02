@@ -2,20 +2,22 @@
 sidebar_position: 1
 ---
 
-# 📘 Documentação da API
+# 📘 Documentação
 
-## Endpoints
 
-### 📄 Visão Geral
 
-Bem-vindo à documentação da API! Esta API permite que você realize a gestão dos dados para o sistema Acompar.
+### 📄 Requisitos
 
-- Base URL: `https://api.acompar.org/v1`
-- Formato de resposta: `JSON`
-- Autenticação: `Bearer Token`
+| Requisito | Versão |
+|-----------|--------|
+| PHP       | >=8.2  |
+| Laravel   |    12  |
+| MySQL     | >=8    |
+
+
 
 ---
-
+<!-- 
 ## 🔐 Autenticação
 
 Todas as requisições exigem autenticação via token JWT.
@@ -80,4 +82,4 @@ Códigos de Resposta:
 
 - 200 OK: Login bem-sucedido
 
-- 401 Unauthorized: Credenciais inválidas
+- 401 Unauthorized: Credenciais inválidas -->

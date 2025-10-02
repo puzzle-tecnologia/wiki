@@ -1,4 +1,4 @@
-# Cadastro de alunos
+# Cadastro de Alunos
 **ID:** USAB-004  
 **Título:** Cadastro de alunos \
 **Objetivo:** Como um coordenador devo cadastrar os alunos na plataforma.  

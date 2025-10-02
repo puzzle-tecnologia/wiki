@@ -70,7 +70,7 @@ const config: Config = {
     // Replace with your project's social card
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: true,
+      disableSwitch: false,
       respectPrefersColorScheme: false
     },
     image: 'img/docusaurus-social-card.jpg',
@@ -78,7 +78,8 @@ const config: Config = {
       title: 'Puzzle',
       logo: {
         alt: 'Puzzle Docs',
-        src: 'img/icon.png'
+        src: 'img/icon_black.png',
+        srcDark: 'img/icon.png',
       },
       items: [
         {

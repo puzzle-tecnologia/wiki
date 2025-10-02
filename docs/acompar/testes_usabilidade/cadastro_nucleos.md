@@ -1,4 +1,4 @@
-# Cadastro de núcleos
+# Cadastro de Núcleos
 **ID:** USAB-002  
 **Título:** Cadastro de núcleos \
 **Objetivo:** Como um administrador devo cadastrar os núcleos na plataforma.  

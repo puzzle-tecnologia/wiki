@@ -1,4 +1,4 @@
-# Atualizar aluno
+# Atualizar Aluno
 **ID:** USAB-005  
 **Título:** Atualizar aluno \
 **Objetivo:** Como um coordenador devo atualizar o aluno na plataforma.  
