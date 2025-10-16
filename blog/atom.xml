@@ -2,37 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.puzzle-tecnologia.com.br/wiki/blog</id>
     <title>Puzzle Docs Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2025-10-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.puzzle-tecnologia.com.br/wiki/blog"/>
     <subtitle>Puzzle Docs Blog</subtitle>
     <icon>https://docs.puzzle-tecnologia.com.br/wiki/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://docs.puzzle-tecnologia.com.br/wiki/blog/welcome</id>
-        <link href="https://docs.puzzle-tecnologia.com.br/wiki/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://docs.puzzle-tecnologia.com.br/wiki/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <title type="html"><![CDATA[Quem somos]]></title>
+        <id>https://docs.puzzle-tecnologia.com.br/wiki/blog/quemsomos</id>
+        <link href="https://docs.puzzle-tecnologia.com.br/wiki/blog/quemsomos"/>
+        <updated>2025-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somos uma empresa da área da tecnologia, que proporciona soluções para problemas e processos complexos.]]></summary>
+        <content type="html"><![CDATA[<p>Somos uma empresa da área da tecnologia, que proporciona soluções para problemas e processos complexos.</p>
+<h1>O que fazemos?</h1>
+<p>Desenvolvemos soluções; Assim como sistemas, sites, aplicativos, automações e qualificaçoes de profissionais.</p>
+<h1>Qual nosso diferencial?</h1>
+<p>Temos uma abordagem mais humanizada possível, e um atendimento personalizado para o cliente, além de buscar o melhor custo benefício.</p>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
+            <name>Roseli Silva da Silva</name>
+            <uri>https://github.com/zezisilva</uri>
         </author>
         <category label="Facebook" term="Facebook"/>
         <category label="Hello" term="Hello"/>

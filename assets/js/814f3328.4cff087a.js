@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Quem somos","permalink":"/wiki/blog/quemsomos","unlisted":false,"date":"2025-10-14T00:00:00.000Z"}]}')}}]);
