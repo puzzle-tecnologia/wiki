@@ -2,21 +2,9 @@ roseli:
   name: Roseli Silva da Silva
   title: Analista de Qualidade
   url: https://github.com/zezisilva
-  image_url: ""
+  image_url: https://media.licdn.com/dms/image/v2/C4E03AQFgkxKm_x-p8A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658385097081?e=1762387200&v=beta&t=VmwpV67hbjtK4iH__WY5IveFpgh-9wNN-5LeyIKIGVE
   page: true
   socials:
     github: zezisilva
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+
