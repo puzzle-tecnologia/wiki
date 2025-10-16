@@ -1,12 +1,11 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+roseli:
+  name: Roseli Silva da Silva
+  title: Analista de Qualidade
+  url: https://github.com/zezisilva
+  image_url: ""
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    github: zezisilva
 
 slorber:
   name: Sébastien Lorber
