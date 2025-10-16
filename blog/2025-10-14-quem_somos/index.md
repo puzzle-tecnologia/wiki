@@ -2,7 +2,7 @@
 slug: quemsomos
 title: Quem somos
 authors: [roseli]
-tags: [facebook, hello, docusaurus]
+tags: []
 ---
 # Puzzle Tecnologia
 
